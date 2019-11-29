@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+Introduction to the starter web
 
 ## Purpose
 
@@ -11,3 +12,6 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Comments
+Adding test comments for branch testing
